@@ -1,0 +1,12 @@
+Requirements
+Python 3.x
+requests library (install via pip install requests)
+Zendesk account with API access
+Zendesk subdomain, username, and API token
+
+Setup
+Clone this repository to your local machine.
+Ensure you have Python 3.x installed.
+Install the requests library using pip install requests.
+Obtain your Zendesk subdomain, username, and API token.
+Create a file named zendesk_credentials.py in the same directory as the script.
